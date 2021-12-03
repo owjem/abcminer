@@ -1,0 +1,2 @@
+# abcminer
+miner for abcmint
